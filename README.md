@@ -35,3 +35,4 @@ Soccer, Naruto Shippuden, One Piece, Writing Haiku.
 
 - ✉️ eric.coleman@phd.unipi.it
 - 💼 [LinkedIn](https://www.linkedin.com/in/eric-nuertey-coleman-912430167/)
+- [Resume](https://eric-coleman-cv.tiiny.site/)
