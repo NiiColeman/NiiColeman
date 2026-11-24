@@ -13,7 +13,7 @@ PhD in Computer Science, University of Pisa. I work on **continual learning** an
 
 - **HAM: Hierarchical Adapter Merging for Scalable Continual Learning** — [arXiv:2509.13211](https://arxiv.org/abs/2509.13211)
 - **PGO-BEN: Proxy-Guided Orthogonalization and Beta Ensembling for Few-Shot Domain-Incremental Learning** — TMLR 2026
-- **Parameter-Efficient Continual Fine-Tuning: A Survey** — [arXiv:2504.13822](https://arxiv.org/abs/2504.13822)
+- **Parameter-Efficient Continual Fine-Tuning: A Survey** — [Neurocomputing](https://sciencedirect.com)
 - **Adaptive LoRA Merging for Efficient Domain Incremental Learning** — NeurIPS 2024 Workshop on Adaptive Foundation Models
 - **The Future of Continual Learning in the Era of Foundation Models** — TCAI Workshop 2025 ([arXiv:2506.03320](https://arxiv.org/abs/2506.03320))
 
